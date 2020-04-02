@@ -50,7 +50,7 @@ Cracking the coding interview solutions
 * [swap odd and even bits in an integer](https://github.com/kinshuk4/algorithms-java/blob/master/src/main/java/com/vaani/dsa/algo/compete/cc150/chapter5/Question6.java)
 * [find missing number with fetch operation](https://github.com/kinshuk4/algorithms-java/blob/master/src/main/java/com/vaani/dsa/algo/compete/cc150/chapter5/Question7.java)
 
-### [chapter 7 | Mathematic](https://github.com/kinshuk4/algorithms-java/blob/master/src/main/java/com/vaani/dsa/algo/compete/cc150/chapter7)
+### [chapter 6 | Math and Logic Puzzles](https://github.com/kinshuk4/algorithms-java/blob/master/src/main/java/com/vaani/dsa/algo/compete/cc150/chapter7)
 * [Choose game](https://github.com/kinshuk4/algorithms-java/blob/master/src/main/java/com/vaani/dsa/algo/compete/cc150/chapter7/Question1.java)
 * [probability of collision](https://github.com/kinshuk4/algorithms-java/blob/master/src/main/java/com/vaani/dsa/algo/compete/cc150/chapter7/Question2.java)
 * [line intersection](https://github.com/kinshuk4/algorithms-java/blob/master/src/main/java/com/vaani/dsa/algo/compete/cc150/chapter7/Question3.java)
@@ -59,7 +59,7 @@ Cracking the coding interview solutions
 * [line passes the most points](https://github.com/kinshuk4/algorithms-java/blob/master/src/main/java/com/vaani/dsa/algo/compete/cc150/chapter7/Question6.java)
 * [find the kth number consists of 3, 5, 7](https://github.com/kinshuk4/algorithms-java/blob/master/src/main/java/com/vaani/dsa/algo/compete/cc150/chapter7/Question7.java)
 
-### [chapter 9 | Dynamic Programming](https://github.com/kinshuk4/algorithms-java/blob/master/src/main/java/com/vaani/dsa/algo/compete/cc150/chapter9)
+### [chapter 8 | Recursion and Dynamic Programming](https://github.com/kinshuk4/algorithms-java/blob/master/src/main/java/com/vaani/dsa/algo/compete/cc150/chapter9)
 * [climbing stairs](https://github.com/kinshuk4/algorithms-java/blob/master/src/main/java/com/vaani/dsa/algo/compete/cc150/chapter9/Question1.java)
 * [unique paths](https://github.com/kinshuk4/algorithms-java/blob/master/src/main/java/com/vaani/dsa/algo/compete/cc150/chapter9/Question2.java)
 * [find the magic index](https://github.com/kinshuk4/algorithms-java/blob/master/src/main/java/com/vaani/dsa/algo/compete/cc150/chapter9/Question3.java)
@@ -71,7 +71,7 @@ Cracking the coding interview solutions
 * [tallest stack](https://github.com/kinshuk4/algorithms-java/blob/master/src/main/java/com/vaani/dsa/algo/compete/cc150/chapter9/Question10.java)
 
 
-### [chapter 11](https://github.com/kinshuk4/algorithms-java/blob/master/src/main/java/com/vaani/dsa/algo/compete/cc150/chapter11)
+### [chapter 10 | Sorting and Searching](https://github.com/kinshuk4/algorithms-java/blob/master/src/main/java/com/vaani/dsa/algo/compete/cc150/chapter11)
 * [merge two arrays](https://github.com/kinshuk4/algorithms-java/blob/master/src/main/java/com/vaani/dsa/algo/compete/cc150/chapter11/Question1.java)
 * [anagram](https://github.com/kinshuk4/algorithms-java/blob/master/src/main/java/com/vaani/dsa/algo/compete/cc150/chapter11/Question2.java)
 * [search in rotated array](https://github.com/kinshuk4/algorithms-java/blob/master/src/main/java/com/vaani/dsa/algo/compete/cc150/chapter11/Question3.java)
@@ -79,7 +79,7 @@ Cracking the coding interview solutions
 * [find element in sorted matrix](https://github.com/kinshuk4/algorithms-java/blob/master/src/main/java/com/vaani/dsa/algo/compete/cc150/chapter11/Question6.java)
 * [get the rank of elements in stream](https://github.com/kinshuk4/algorithms-java/blob/master/src/main/java/com/vaani/dsa/algo/compete/cc150/chapter11/Question8.java)
 
-### [chapter 17 | Moderate](https://github.com/kinshuk4/algorithms-java/blob/master/src/main/java/com/vaani/dsa/algo/compete/cc150/chapter17)
+### [chapter 16 | Moderate](https://github.com/kinshuk4/algorithms-java/blob/master/src/main/java/com/vaani/dsa/algo/compete/cc150/chapter17)
 * [Swap two numbers in place](https://github.com/kinshuk4/algorithms-java/blob/master/src/main/java/com/vaani/dsa/algo/compete/cc150/chapter17/Question1.java)
 * [Validate tic-tac-toe](https://github.com/kinshuk4/algorithms-java/blob/master/src/main/java/com/vaani/dsa/algo/compete/cc150/chapter17/Question2.java)
 * [Counts # of trailing 0's in n!](https://github.com/kinshuk4/algorithms-java/blob/master/src/main/java/com/vaani/dsa/algo/compete/cc150/chapter17/Question3.java)
@@ -90,7 +90,7 @@ Cracking the coding interview solutions
 * [Two sum](https://github.com/kinshuk4/algorithms-java/blob/master/src/main/java/com/vaani/dsa/algo/compete/cc150/chapter17/Question12.java)
 * [Convert BST to Doubly Linked List](https://github.com/kinshuk4/algorithms-java/blob/master/src/main/java/com/vaani/dsa/algo/compete/cc150/chapter17/Question13.java)
 
-### [chapter 18 | Hard](https://github.com/kinshuk4/algorithms-java/blob/master/src/main/java/com/vaani/dsa/algo/compete/cc150/chapter18)
+### [chapter 17 | Hard](https://github.com/kinshuk4/algorithms-java/blob/master/src/main/java/com/vaani/dsa/algo/compete/cc150/chapter18)
 * [Add two numbers withoug +](https://github.com/kinshuk4/algorithms-java/blob/master/src/main/java/com/vaani/dsa/algo/compete/cc150/chapter18/Question1.java)
 * [Random suffling](https://github.com/kinshuk4/algorithms-java/blob/master/src/main/java/com/vaani/dsa/algo/compete/cc150/chapter18/Question2.java)
 * [m out of n reservoir sampling](https://github.com/kinshuk4/algorithms-java/blob/master/src/main/java/com/vaani/dsa/algo/compete/cc150/chapter18/Question3.java)
